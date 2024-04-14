@@ -1,38 +1,27 @@
-.App {
-  text-align: center;
+body{
+  background-color: #d7d7d7 !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.jbo-color-morado{
+  color: #6748D9;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.jbo-color-moradoClaro{
+  color: #CB62D9;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.job-color-gris{
+  color: #777;
 }
 
-.App-link {
-  color: #61dafb;
+.job-color-blanco{
+  color: #fff !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.job-link-decoration{
+  text-decoration: none;
+}
+
+.fs-7{
+  font-size: 13px;
 }
